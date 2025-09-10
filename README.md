@@ -18,7 +18,7 @@ chmod +x install-sb.sh
 
 
 # for any os :
-* [socialbox](https://github.com/Athexhacker/cracker)
+* [Cracker](https://github.com/Athexhacker/cracker)
 # Contact
 * [Youtube](https://www.Youtube.com/@inziXploit444) - ATHEX BLACK HAT
 * [Instagram](https://www.instagram.com/itx_athex86) - ATHEX BLACK HAT
